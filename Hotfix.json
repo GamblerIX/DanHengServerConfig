@@ -1,0 +1,19 @@
+{
+  "Region": "None",
+  "HotfixData": {
+    "CN3.7.0": {
+      "AssetBundleUrl": "asb/V3.7Live/output_12477160_5da2dc8d6e33_785951683a8623",
+      "ExAssetBundleUrl": "asb/V3.7Live/output_12477160_5da2dc8d6e33_785951683a8623",
+      "ExResourceUrl": "design_data/V3.7Live/output_12611473_1ea87ad3f42a_748fabe9f3533c",
+      "LuaUrl": "lua/V3.7Live/output_12576450_666f169b3262_4d113c227ffbe2",
+      "IfixUrl": "ifix/V3.7Live/output_12623363_6a3715f341cc_9169fbfe61efd7"
+    },
+    "OS3.7.0": {
+      "AssetBundleUrl": "asb/V3.7Live/output_12477160_5da2dc8d6e33_785951683a8623",
+      "ExAssetBundleUrl": "asb/V3.7Live/output_12477160_5da2dc8d6e33_785951683a8623",
+      "ExResourceUrl": "design_data/V3.7Live/output_12611473_1ea87ad3f42a_748fabe9f3533c",
+      "LuaUrl": "lua/V3.7Live/output_12576450_666f169b3262_4d113c227ffbe2",
+      "IfixUrl": "ifix/V3.7Live/output_12623363_6a3715f341cc_9169fbfe61efd7"
+    }
+  }
+}
